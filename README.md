@@ -44,7 +44,7 @@ Download the dataset and ensure it is placed in the project root as `CTU-IoT-Mal
 
 1. **Run the GAN training script**:
    ```bash
-   python main_gan_script.py
+   python traffic_gan.py
    ```
 
 2. **Expected Output**:
